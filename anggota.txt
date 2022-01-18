@@ -1,0 +1,7 @@
+LIB659,Maudy Ayunda,2
+LIB938,Iron Man,1
+LIB705,Naruto,1
+LIB281,Ran Mouri,2
+LIB879,Black Panther,l
+LIB734,Muhammad Komarudin,1
+LIB539,Sasuke,2
